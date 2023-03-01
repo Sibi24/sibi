@@ -1,0 +1,13 @@
+   td {
+        border:5px solid black;
+        border-collapse: collapse;
+    }
+    th,
+    td {
+        padding: 10px;
+    }
+
+	
+	body {
+   background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
